@@ -31,13 +31,19 @@
    <br>56073 · 2<sup>223382</sup> + 1 divides <i>F</i><sub>223380</sub>.<sub>&nbsp;</sub>
 </b><br>
 
-&nbsp; − − −<sub>&nbsp;</sub> 
+&nbsp; − − −<b><br>On July 3rd, 2024, Erwin Doescher and George Woltman discovered that<sub>&nbsp;</sub> 
+   <br>30792107213272383425 · 2<sup>43</sup> + 1 divides <i>F</i><sub>41</sub>.<sub>&nbsp;</sub>
+</b><br>
+
+&nbsp; − − −<sub>&nbsp;</sub><sub>&nbsp;</sub> 
+
+ 
 
 <b><br>After a ten month dry spell, Gary Gostin finally found 
    <br>a new Fermat factor: On May 24, 2024, he discovered that<sub>&nbsp;</sub> 
    <br>322072887044529 · 2<sup>253</sup> + 1 divides <i>F</i><sub>251</sub>.
    <br>As he aptly remarked himself, this factor makes <i>F</i><sub>251</sub> 
-   <br>the 5th largest Fermat number with multiple known factors.
+   <br>the 6th largest Fermat number with multiple known factors.
 </b><br>
 
 </p><p align="center"> 
@@ -425,11 +431,7 @@
 For an evaluation of the “Proof Strengths”, please refer to 
 <a href="https://www.mersenneforum.org/showpost.php?p=631583&amp;postcount=16">this</a> report.
 </p><p align="center">
-<font size="4"><b>
-A more comprehensive presentation of the smaller Fermat numbers
-<br><i>F<sub>m</sub></i>&nbsp; for &nbsp;<i>m</i> ≤ 32&nbsp; is found 
-<a href="https://64ordle.au/fermat/small/">here</a>.
-</b></font>
+<font size="4"></font>
 </p><h3 align="center">
     <a name="Larger"> Prime factors
     &nbsp;<i>k</i> · 2<sup><i>n</i></sup> + 1&nbsp;
@@ -476,7 +478,7 @@ A more comprehensive presentation of the smaller Fermat numbers
     </td><td> 01 </td><td align="center"> Mar </td><td> 2021 </td><td> </td><td> L. Morelli &amp; Woltman 
 </td></tr><tr><td align="right"> 41 </td><td> 
     </td><td align="right"> 30792107213272383425 </td><td> </td><td align="right"> 43 </td><td> 
-    </td><td> 16 </td><td align="center"> Sep </td><td> 2007 </td><td> </td><td> T. Rajala &amp; Woltman 
+    </td><td> 03 </td><td align="center"> Jul </td><td> 2024 </td><td> </td><td> E. Doescher &amp; Woltman 
 </td></tr><tr><td align="right"> 42 </td><td> 
     </td><td align="right"> 43485 </td><td> </td><td align="right"> 45 </td><td> 
     </td><td> </td><td> </td><td> 1963 </td><td> </td><td> C. P. Wrathall 
@@ -584,6 +586,9 @@ A more comprehensive presentation of the smaller Fermat numbers
     </td><td> G. B. Gostin &amp; P. B. McLaughlin;
 </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>
     </td><td> H. Suyama 
+</td></tr><tr><td align="right"> 102 </td><td> 
+    </td><td align="right"> 627 </td><td> </td><td align="right"> 106 </td><td> 
+    </td><td> </td><td> </td><td> 1964 </td><td> </td><td> R. M. Robinson &amp; J. L. Selfridge 
 </td></tr><tr><td align="right"> 103 </td><td> 
     </td><td align="right"> 7595155767819149 </td><td> </td><td align="right"> 105 </td><td> 
     </td><td> 31 </td><td align="center"> Dec </td><td> 2020 </td><td> </td><td> P. Strasser &amp; Woltman
@@ -1591,7 +1596,7 @@ A more comprehensive presentation of the smaller Fermat numbers
          21<sup>*</sup>, 22<sup>*</sup>, 23<sup>*</sup>,
          26<sup>*</sup>, 28<sup>*</sup>, 29<sup>*</sup>, 31, 32, 37,  
 </td></tr><tr><td> </td><td> </td><td> &nbsp; &nbsp; &nbsp; 
-         &nbsp;and 286 values of  &nbsp;<i>m</i>&nbsp;
+         &nbsp;and 287 values of  &nbsp;<i>m</i>&nbsp;
          with &nbsp;39 &lt; <i>m</i> ≤ 18233954 
 </td></tr><tr><td> Composite but no factor known </td><td> &nbsp; 
     </td><td> <i>m</i> = 24 
@@ -1599,8 +1604,8 @@ A more comprehensive presentation of the smaller Fermat numbers
     </td><td> <i>m</i> = 33, 34, 35, 44, 45, 46, 49, 50, 51, 53, 54, 56, 57, 59, 60, . . . 
 </td></tr><tr><td> <sup>*</sup> Cofactor composite 
 </td></tr></tbody></table>
-</p><p align="center"> 378 prime factors known <br>
-                 330 Fermat numbers known to be composite
+</p><p align="center"> 379 prime factors known <br>
+                 331 Fermat numbers known to be composite
 </p><h3 align="center">
     <a name="Count"> Count of factors according to difference
     &nbsp;<i>n</i> − <i>m</i> </a>
